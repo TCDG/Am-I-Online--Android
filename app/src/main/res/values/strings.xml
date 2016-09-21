@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Am-I-Online</string>
+    <string name="app_desc">This app shows you if your really connected to the internet or not! No more having to rage about your WiFi or 4G wondering why its not working!</string>
+
+    <string name="auto_update_title">Enable automatic connection checker:</string>
+    <string name="auto_update_desc">This will enable to automatic update checker every minute</string>
+
+    <string name="loading">Loading...</string>
+
+    <string name="title_connected">[Connected to the internet]</string>
+    <string name="title_disconnected">[No connection to the internet]</string>
+
+    <string name="action_refreshing">Refreshing...</string>
+    <string name="action_starting">Starting...</string>
+    <string name="action_stopping">Stopping...</string>
+</resources>

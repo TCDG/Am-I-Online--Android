@@ -1,5 +1,5 @@
 <img src="icon.png" align="right" />
-# Am-I-Online [![Awesome](https://travis-ci.org/TCDG/Scammer-Bingo---Android.svg?branch=material-rewrite)](https://travis-ci.org/TCDG/Scammer-Bingo---Android)
+# Am-I-Online [![Awesome](https://travis-ci.org/TCDG/Am-I-Online--Android.svg?branch=master)](https://travis-ci.org/TCDG/Am-I-Online--Android)
 
 Am-I-Online is an app to show your true internet status!
 
